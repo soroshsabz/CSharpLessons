@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter2", "Chapter2", "{318D6B01-8DE6-4CDF-A4CC-9762EDA45F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLessons.Chapter2.SimpleConsoleApp", "Chapter2\CSharpLessons.Chapter2.SimpleConsoleApp\CSharpLessons.Chapter2.SimpleConsoleApp.csproj", "{C9AB63EC-82C5-4D5B-ACE1-1BDE53F429C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9AB63EC-82C5-4D5B-ACE1-1BDE53F429C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AB63EC-82C5-4D5B-ACE1-1BDE53F429C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AB63EC-82C5-4D5B-ACE1-1BDE53F429C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AB63EC-82C5-4D5B-ACE1-1BDE53F429C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C9AB63EC-82C5-4D5B-ACE1-1BDE53F429C3} = {318D6B01-8DE6-4CDF-A4CC-9762EDA45F20}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {074F5525-3A18-4AEC-984F-007C2137822A}
+	EndGlobalSection
+EndGlobal
